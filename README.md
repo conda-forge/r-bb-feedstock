@@ -1,11 +1,11 @@
-About r-bb
-==========
+About r-bb-feedstock
+====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bb-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.jhsph.edu/agingandhealth/People/Faculty_personal_pages/Varadhan.html
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bb-feedstock/blob/main/LICENSE.txt)
 
 Summary: Barzilai-Borwein spectral methods for solving nonlinear system of equations, and for optimizing nonlinear objective functions subject to simple constraints. A tutorial style introduction to this package is available in a vignette on the CRAN download page or, when the package is loaded in an R session, with vignette("BB").
 
